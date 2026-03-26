@@ -1,0 +1,6 @@
+Title: About
+Status: hidden
+
+Small and emerging design firms are driven by creativity and vision, yet they often face the heavy burden of expensive software subscriptions. These costs drain resources, stifle innovation, and limit what they can achieve. But there’s a better way. By embracing Open-Source Software, firms can break free from the financial strain. Open-source tools like FreeCAD, QGIS, and OpenStudio offer the same capabilities as costly alternatives—without the hefty price tags. These tools empower firms to allocate resources where they matter most: on design, innovation, and growth.
+
+No longer tied down by restrictive licenses, small firms can compete on a level playing field, take on ambitious projects, and fully realize their creative potential. Open-source is more than just software; it’s a movement that empowers designers to innovate, collaborate, and thrive. The struggle to pay for software should never hold back great ideas. With Open-Source Software, design firms can reclaim their freedom, fuel their creativity, and make their boldest visions a reality.
