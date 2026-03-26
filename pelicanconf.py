@@ -4,7 +4,7 @@ SITENAME = 'Project Automated'
 # SITETAG = "Text that's displayed in the title on the home page."
 SITEURL = ""
 
-THEME = '../pa_bootstrap5' # default was 'notmyidea'
+THEME = 'themes/pa_bootstrap5' # default was 'notmyidea'
 
 PATH = "content"
 
