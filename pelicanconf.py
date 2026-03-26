@@ -60,8 +60,8 @@ CATEGORIES_SAVE_AS = 'categories.html'
 # DIRECT_TEMPLATES = ['index', 'categories', 'tags', 'archives', 'software']
 
 MENUITEMS = (
-    ("Blog", "/pa_theme/blogs/"),
-    ("Projects", "/pa_theme/pages/projects.html"),
-    ("About", "/pa_theme/pages/about.html"),
-    ("Contact", "/pa_theme/pages/contact.html"),
+    ("Blog", "blogs/"),
+    ("Projects", "pages/projects.html"),
+    ("About", "pages/about.html"),
+    ("Contact", "pages/contact.html"),
 )
