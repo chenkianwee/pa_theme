@@ -1,5 +1,4 @@
-Title: Projects
-Date: 2010-12-03 10:20
+Title: Research & Education Projects
 Status: hidden
 <!-- Save_as: projects/index.html
 Is_folder_index: false -->

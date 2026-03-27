@@ -1,6 +1,14 @@
 Title: About
 Status: hidden
 
-Small and emerging design firms are driven by creativity and vision, yet they often face the heavy burden of expensive software subscriptions. These costs drain resources, stifle innovation, and limit what they can achieve. But there’s a better way. By embracing Open-Source Software, firms can break free from the financial strain. Open-source tools like FreeCAD, QGIS, and OpenStudio offer the same capabilities as costly alternatives—without the hefty price tags. These tools empower firms to allocate resources where they matter most: on design, innovation, and growth.
+#### Kian Wee Chen
+Project Automated is my after-work research lab where I continue my research interest in the development and use of open-source digital tools to support the integrative design process for the built environment. I am currently a senior researcher at Global Environmental Technologies Inc. (US subsidiary of Sanken Setsubi Kogyo), a company focusing on development of zero energy building HVAC technologies, and a visitng scholar at Andlinger Center for Energy and the Environment, Princeton University. Interested about my research journey? <a href="https://chenkianwee.github.io/" target="_blank">Click here for my full CV.</a>
 
-No longer tied down by restrictive licenses, small firms can compete on a level playing field, take on ambitious projects, and fully realize their creative potential. Open-source is more than just software; it’s a movement that empowers designers to innovate, collaborate, and thrive. The struggle to pay for software should never hold back great ideas. With Open-Source Software, design firms can reclaim their freedom, fuel their creativity, and make their boldest visions a reality.
+# Contact
+
+<a href="https://linkedin.com/in/kian-wee-chen-79b2b721" target="_blank">Linkedin Profile</a><Br>
+<a href="https://scholar.google.com.sg/citations?user=RCkm8MQAAAAJ&hl=en" target="_blank">Google Scholar Profile</a><Br>
+<a href="https://www.researchgate.net/profile/Kian-Chen" target="_blank">ResearchGate Profile</a><Br>
+<a href="https://github.com/chenkianwee" target="_blank">Github Profile</a>
+
+If you have any questions or comments feel free to get in touch with me on these social media platforms.

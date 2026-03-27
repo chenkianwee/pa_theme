@@ -1,7 +1,7 @@
 Title: Project Automated
 Save_as: index.html
 Status: hidden
-Is_landing: True
+Page_type: landing
 Intro_image: images/procedure.gif
 
 Project Automated envisions a computationally streamlined architectural design process where repetitive and laborious tasks are automated, designers are free to focus on what truly matters, solving the design challenges at hand and creating a better built environment for everyone. The design process uses only affordable, open and transparent technologies. No expensive licenses, subscriptions or vendor lock-ins. An open computational design process that is available anywhere, anytime to anyone. 
