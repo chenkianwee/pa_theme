@@ -59,9 +59,16 @@ CATEGORIES_SAVE_AS = 'categories.html'
 # STATIC_PATHS = ['images', 'extra', 'theme/static', 'pdfs']
 # DIRECT_TEMPLATES = ['index', 'categories', 'tags', 'archives', 'software']
 
+# MENUITEMS = (
+#     ("Blog", f"{SITEURL}/blogs/"),
+#     ("Projects", f"{SITEURL}/pages/projects.html"),
+#     ("About", f"{SITEURL}/pages/about.html"),
+#     ("Contact", f"{SITEURL}/pages/contact.html"),
+# )
+
 MENUITEMS = (
-    ("Blog", f"{SITEURL}/blogs/"),
-    ("Projects", f"{SITEURL}/pages/projects.html"),
-    ("About", f"{SITEURL}/pages/about.html"),
-    ("Contact", f"{SITEURL}/pages/contact.html"),
+    ("Blog", f"blogs/"),
+    ("Projects", f"pages/projects.html"),
+    ("About", f"pages/about.html"),
+    ("Contact", f"pages/contact.html"),
 )
