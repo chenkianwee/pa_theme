@@ -4,7 +4,7 @@ Status: hidden
 #### Kian Wee Chen
 Project Automated is my after-work research lab where I continue my research interest in the development and use of open-source digital tools to support the integrative design process for the built environment. I am currently a senior researcher at Global Environmental Technologies Inc. (US subsidiary of Sanken Setsubi Kogyo), a company focusing on development of zero energy building HVAC technologies, and a visitng scholar at Andlinger Center for Energy and the Environment, Princeton University. 
 
-<a href="https://chenkianwee.github.io/" target="_blank">Click here for my full CV.</a>
+<a href="../cv/cv.html" >Click here for my full CV.</a>
 
 # Contact
 
