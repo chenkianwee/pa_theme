@@ -4,11 +4,11 @@ document.addEventListener("DOMContentLoaded", function() {
 
     // 2. Select all your navbar links
     const navLinks = document.querySelectorAll('.navbar-nav .nav-link');
-
+    console.log(currentPath);
     navLinks.forEach(link => {
         // 3. Get the href attribute from the link
         const linkPath = link.getAttribute('href');
-
+        console.log(linkPath);
         // 4. Check if the current URL contains the link's path
         // We check for "index.html" or "/" for the homepage specifically
         if (currentPath === linkPath || (currentPath === '/' && linkPath.includes('index.html'))) {
