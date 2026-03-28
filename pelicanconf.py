@@ -59,8 +59,8 @@ CATEGORIES_SAVE_AS = 'categories.html'
 # STATIC_PATHS = ['images', 'extra', 'theme/static', 'pdfs']
 # DIRECT_TEMPLATES = ['index', 'categories', 'tags', 'archives', 'software']
 
-# menu_base_url = 'https://chenkianwee.github.io/pa_theme'
-menu_base_url = ''
+menu_base_url = 'https://chenkianwee.github.io/pa_theme'
+# menu_base_url = ''
 MENUITEMS = (
     ("Blog", f"{menu_base_url}/blogs/"),
     ("Research", f"{menu_base_url}/pages/research.html"),
