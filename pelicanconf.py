@@ -44,7 +44,7 @@ SLUGIFY_SOURCE = 'basename'  # default was 'title'
 
 INDEX_SAVE_AS = '/blogs/index.html'  # default was 'index.html'
 ARTICLE_PATHS = ['blogs']  # default was ['']
-PAGE_PATHS = ['pages', 'projects']  # default was ['pages']
+PAGE_PATHS = ['pages', 'cv']  # default was ['pages']
 
 PATH_METADATA = r'(?P<path_no_ext>.*)\..*'  # default was ''
 ARTICLE_URL = '{path_no_ext}.html'  # default was '{slug}.html'
@@ -59,8 +59,8 @@ CATEGORIES_SAVE_AS = 'categories.html'
 # STATIC_PATHS = ['images', 'extra', 'theme/static', 'pdfs']
 # DIRECT_TEMPLATES = ['index', 'categories', 'tags', 'archives', 'software']
 
-menu_base_url = 'https://chenkianwee.github.io/pa_theme'
-# menu_base_url = ''
+# menu_base_url = 'https://chenkianwee.github.io/pa_theme'
+menu_base_url = ''
 MENUITEMS = (
     ("Blog", f"{menu_base_url}/blogs/"),
     ("Research", f"{menu_base_url}/pages/research.html"),

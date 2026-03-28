@@ -1,9 +1,9 @@
-Title: Research & Education Projects
+Title: Research
 Status: hidden
 <!-- Save_as: projects/index.html
 Is_folder_index: false -->
 
-## Software
+## Research Software
 
 **geomie3d** - Python library for doing computational geometry operations. <a href="https://github.com/chenkianwee/geomie3d" target="_blank">[Github]</a> <a href="https://chenkianwee.github.io/geomie3d" target="_blank">[API Documentation]</a>
 
