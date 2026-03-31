@@ -2,7 +2,7 @@
 {% block content %}
     <header>
         <div class="py-3 text-left">
-          <h1>Articles</h1> 
+          <h1>Blog</h1> 
         </div>
     </header>
     <div class="pe-lg-30 text-left">
@@ -19,6 +19,10 @@
                     {% for author in article.authors %}
                         <a href="{{ SITEURL }}/{{ author.url }}">{{ author }}</a>
                     {% endfor %}
+                    <Br>
+                    {% if article.category %}
+                        Category: <a href="{{ SITEURL }}/{{ article.category.url }}">{{ article.category }}</a><Br>
+                    {% endif %}
                     </p>
                 </footer>
             </article>

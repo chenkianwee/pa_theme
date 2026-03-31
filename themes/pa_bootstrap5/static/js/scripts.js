@@ -1,3 +1,4 @@
+// Highlight the top navbar when selected
 document.addEventListener("DOMContentLoaded", function() {
     // 1. Get the current URL path (e.g., "/about.html")
     const currentPath = window.location.href;

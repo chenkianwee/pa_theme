@@ -45,7 +45,7 @@
     {% block body %}
       <header>
         {% block nav %}
-          <nav class="navbar bg-light navbar-expand-lg">
+          <nav class="navbar bg-light navbar-expand-lg sticky-top">
             <div class="container px-5 py-2" >
               <a class="navbar-brand" href="{{ SITEURL }}/">
                 <img src= "{{ SITEURL }}/images/logo.svg" alt="" width="230" height="">
@@ -78,9 +78,6 @@
               </div>
             </div>
           </nav>
-          {% block header %}
-            <!-- <hgroup><h1><a href="{{ SITEURL }}/">{{ SITENAME }}</a></h1>{% if SITESUBTITLE %}<p>{{ SITESUBTITLE }}</p>{% endif %}</hgroup> -->
-          {% endblock header %}
         {% endblock nav %}
       </header>
       <main class="flex-grow-1">
@@ -101,6 +98,6 @@
       </footer>
     {% endblock body %}
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
-    <script src="{{ SITEURL }}/theme/js/navbar_highlight.js"></script>
+    <script src="{{ SITEURL }}/theme/js/scripts.js"></script>
   </body>
 </html>
