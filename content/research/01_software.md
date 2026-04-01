@@ -1,9 +1,5 @@
-Title: Research
+Title: Research Software
 Status: hidden
-<!-- Save_as: projects/index.html
-Is_folder_index: false -->
-
-## Research Software
 
 **geomie3d** - Python library for doing computational geometry operations. <a href="https://github.com/chenkianwee/geomie3d" target="_blank">[Github]</a> <a href="https://chenkianwee.github.io/geomie3d" target="_blank">[API Documentation]</a>
 
@@ -17,10 +13,3 @@ Is_folder_index: false -->
 
 **ifc2osmod** - Python library to convert IFC to OpenStudio models. <a href="https://github.com/chenkianwee/ifc2osmod" target="_blank">[Github]</a>
 
-## Ebooks
-
-**gis4design** - A QGIS guide book for designers. Offer step-by-step instructions for applying GIS in your design project. <a href="https://chenkianwee.github.io/gis4design" target="_blank">[Link]</a>
-
-**Architectural Performance-Based Design** - A guide book for designers. Offer performanc-based resources for your design project. <a href="https://chenkianwee.github.io/archpbd" target="_blank">[Link]</a>
-
-**IoT4Design** - An IoT guide book for designers. Offer step-by-step instructions for applying IoT sensors in your design project. <a href="https://chenkianwee.github.io/iot4design" target="_blank">[Link]</a>

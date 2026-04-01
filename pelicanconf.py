@@ -44,7 +44,7 @@ SLUGIFY_SOURCE = 'basename'  # default was 'title'
 
 INDEX_SAVE_AS = '/blogs/index.html'  # default was 'index.html'
 ARTICLE_PATHS = ['blogs']  # default was ['']
-PAGE_PATHS = ['pages', 'cv']  # default was ['pages']
+PAGE_PATHS = ['pages', 'cv', 'research', 'education']  # default was ['pages']
 
 PATH_METADATA = r'(?P<path_no_ext>.*)\..*'  # default was ''
 ARTICLE_URL = '{path_no_ext}.html'  # default was '{slug}.html'
@@ -56,13 +56,13 @@ PAGE_SAVE_AS = '{path_no_ext}.html'  # default was 'pages/{slug}.html'
 ARCHIVE_SAVE_AS = False
 DISPLAY_CATEGORIES_ON_MENU = False
 CATEGORIES_SAVE_AS = 'categories.html'
-# STATIC_PATHS = ['images', 'extra', 'theme/static', 'pdfs']
-# DIRECT_TEMPLATES = ['index', 'categories', 'tags', 'archives', 'software']
 
 menu_base_url = 'https://chenkianwee.github.io/pa_theme'
 # menu_base_url = ''
 MENUITEMS = (
-    ("Blog", f"{menu_base_url}/blogs/"),
-    ("Research", f"{menu_base_url}/pages/research.html"),
-    ("About", f"{menu_base_url}/pages/about.html"),
+    ("Home", f"{menu_base_url}/", "item"),
+    ("Blog", f"{menu_base_url}/blogs/", "item"),
+    ("Research", f"{menu_base_url}/research/", "dropdown"),
+    ("Education", f"{menu_base_url}/education/", "dropdown"),
+    ("About", f"{menu_base_url}/pages/about.html", "item"),
 )
