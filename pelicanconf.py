@@ -57,8 +57,8 @@ ARCHIVE_SAVE_AS = False
 DISPLAY_CATEGORIES_ON_MENU = False
 CATEGORIES_SAVE_AS = 'categories.html'
 
-# menu_base_url = 'https://chenkianwee.github.io/pa_theme'
-menu_base_url = ''
+menu_base_url = 'https://chenkianwee.github.io/pa_theme'
+# menu_base_url = ''
 MENUITEMS = (
     ("Home", f"{menu_base_url}/", "item"),
     ("Blog", f"{menu_base_url}/blogs/", "item"),
