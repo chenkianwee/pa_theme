@@ -1,10 +1,10 @@
 AUTHOR = 'Kian Wee Chen'
-SITENAME = 'Project Automated'
+SITENAME = 'AkiDexen'
 # SITESUBTITLE ='Sub-title that goes underneath site name in jumbotron.'
 # SITETAG = "Text that's displayed in the title on the home page."
 SITEURL = ""
 
-THEME = 'themes/pa_bootstrap5' # default was 'notmyidea'
+THEME = 'themes/solo_research_studio_bootstrap5' # default was 'notmyidea'
 
 PATH = "content"
 
@@ -57,8 +57,8 @@ ARCHIVE_SAVE_AS = False
 DISPLAY_CATEGORIES_ON_MENU = False
 CATEGORIES_SAVE_AS = 'categories.html'
 
-menu_base_url = 'https://chenkianwee.github.io/pa_theme'
-# menu_base_url = ''
+# menu_base_url = 'https://chenkianwee.github.io/pa_theme'
+menu_base_url = ''
 MENUITEMS = (
     ("Home", f"{menu_base_url}/", "item"),
     ("Blog", f"{menu_base_url}/blogs/", "item"),

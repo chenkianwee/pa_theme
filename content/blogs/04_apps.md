@@ -4,7 +4,7 @@ Date: 2025-08-11
 Authors: Kian Wee Chen
 Status: published
 Duration: 10 mins
-Category: Essay
+Category: Research Software
 
 The use of Python Beeware and Pyscript to develop applications for sharing your Python scripts to non-programmers.  
 
